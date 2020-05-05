@@ -1,0 +1,8 @@
+SCORE POINTS,RANKS,Bed to population ratio,Quarantine facilities to population ratio,Cases - performed,Performed - positive,Positive - expired,Hospital to population Ratio
+7,1,ICT,GB,Punjab,Punjab,Punjab,GB
+6,2,Balochistan,AJK,KP,Sindh,Sindh,ICT
+5,3,KP,ICT,Sindh,KP,KP,Balochistan
+4,4,Sindh,KP,ICT,ICT,Balochistan,KP
+3,5,GB,Balochistan,AJK,GB,GB,AJK
+2,6,AJK,Punjab,GB,AJK,ICT,Sindh
+1,7,Punjab,Sindh,Balochistan,Balochistan,AJK,Punjab
